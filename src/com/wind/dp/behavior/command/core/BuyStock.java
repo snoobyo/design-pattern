@@ -1,4 +1,4 @@
-package behavior.command.core;
+package com.wind.dp.behavior.command.core;
 
 public class BuyStock implements Order{
 

@@ -1,4 +1,4 @@
-package behavior.command.core;
+package com.wind.dp.behavior.command.core;
 
 import java.util.ArrayList;
 import java.util.List;

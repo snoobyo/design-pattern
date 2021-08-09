@@ -1,4 +1,4 @@
-package behavior.chain.core;
+package com.wind.dp.behavior.chain.core;
 
 /**
  * @author wind

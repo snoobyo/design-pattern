@@ -1,10 +1,13 @@
-package behavior.command;
+package com.wind.dp.behavior.command;
 
-import behavior.command.core.Broker;
-import behavior.command.core.BuyStock;
-import behavior.command.core.SellStock;
-import behavior.command.core.Stock;
+import com.wind.dp.behavior.command.core.Broker;
+import com.wind.dp.behavior.command.core.BuyStock;
+import com.wind.dp.behavior.command.core.SellStock;
+import com.wind.dp.behavior.command.core.Stock;
 
+/**
+ * @author wind
+ */
 public class CommandDemo {
 
     public static void main(String[] args) {

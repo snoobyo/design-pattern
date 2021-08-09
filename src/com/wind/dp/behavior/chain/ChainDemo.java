@@ -1,9 +1,9 @@
-package behavior.chain;
+package com.wind.dp.behavior.chain;
 
-import behavior.chain.core.AbstractLogger;
-import behavior.chain.core.DebugLogger;
-import behavior.chain.core.ErrorLogger;
-import behavior.chain.core.InfoLogger;
+import com.wind.dp.behavior.chain.core.AbstractLogger;
+import com.wind.dp.behavior.chain.core.DebugLogger;
+import com.wind.dp.behavior.chain.core.ErrorLogger;
+import com.wind.dp.behavior.chain.core.InfoLogger;
 
 /**
  * @author wind
