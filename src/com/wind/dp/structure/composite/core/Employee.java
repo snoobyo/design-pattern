@@ -3,6 +3,9 @@ package com.wind.dp.structure.composite.core;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author wind
+ */
 public class Employee {
 
     private String name;

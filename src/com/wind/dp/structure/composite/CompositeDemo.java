@@ -2,6 +2,9 @@ package com.wind.dp.structure.composite;
 
 import com.wind.dp.structure.composite.core.Employee;
 
+/**
+ * @author wind
+ */
 public class CompositeDemo {
 
     public static void main(String[] args) {
